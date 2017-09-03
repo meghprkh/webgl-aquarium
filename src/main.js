@@ -127,7 +127,7 @@ function toRadians (angle) {
   return angle * (Math.PI / 180);
 }
 
-window.$ = require('jquery')
+// window.$ = require('jquery')
 window.Matrices = {}
 window.models = {}
 
