@@ -3,6 +3,10 @@ An aquarium made in WebGL with lighting, reflective glass & metal, bubbles and m
 
 https://meghprkh.github.io/webgl-aquarium/
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Controls
 - w/a/s/d + Mouse - Move
 - e - Spawn new fish by laying an egg
